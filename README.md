@@ -19,7 +19,7 @@ To run this app locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/LamarJonesNdubi/Weather-App
 Navigate to the project directory:
 bash
 Copy code
