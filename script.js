@@ -1,6 +1,9 @@
 /* Alright lets do this...man i hate javascript */
 "use strict";
 
+// A little pop up message for the website visitors...it might be annoying..
+window.alert("Thank you for Reviewing my Webpage :)");
+
 const API = "d1d901d405119f5bf213f449dded564a"; /* Play with it responsively */
 
 const dayEl = document.querySelector(".default_day");
